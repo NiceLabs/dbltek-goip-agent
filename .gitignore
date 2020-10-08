@@ -1,0 +1,7 @@
+.idea
+!.idea/watcherTasks.xml
+/vendor
+
+/agent.*
+/goip-agent*
+/goip-smtp*
